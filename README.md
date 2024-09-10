@@ -9,6 +9,7 @@
 - [Example API Request](#example-api-request)
 - [Testing](#testing)
 - [Project Structure](#project-structure)
+- [How to Use This Repository](#how-to-use-this-repository)
 
 ## Overview
 This project is designed to extract specific information from medical documents, such as prescriptions and patient details. It uses OCR to convert document images to text and then parses the text to retrieve relevant fields.
@@ -75,3 +76,9 @@ pytest
 - `test/`: Contains unit tests for the parsers.
 - `frontend/`: Contains frontend-related files (if any).
 - `notebooks/`: Contains Jupyter notebooks for experimentation and development.
+
+## How to Use This Repository
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/KartikPanditaaa/Digital-Music-Store-Analysis.git
